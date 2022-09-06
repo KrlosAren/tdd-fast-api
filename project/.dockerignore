@@ -1,0 +1,11 @@
+env
+venv
+
+Dockerfile
+Dockerfile.prod
+
+
+.coverage
+.coverage.*
+.cache
+htmlcov/
